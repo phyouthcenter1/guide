@@ -13,7 +13,7 @@ title: Introduction
   <ul>
     <li><a href="#about">About</a></li>
     <li><a href="#why-consider">Why conisder</a></li>
-    <li><a href="#quicklinks">Quicklinks</a></li>
+    <li><a href="#quicklinks">Quick-links</a></li>
     <li><a href="#license">License</a></li>
   </ul>
   <h2>About</h2>
@@ -61,7 +61,7 @@ title: Introduction
       Need further assistance? –– <a href="https://discord.gg/2AJPbyNwbQ">Join our Discord server!</a>
     </li>
     <li>
-      🐛 Bugs? ✨ Suggestions? –– <a href="https://feedback.tovyblox.xyz/">Let us know here!</a>
+      🐛 Bugs? ✨ Suggestions? –– <a href="https://feedback.tovyblox.xyz/">Let us know on our feedback board!</a>
     </li>
   </ul>
   <h2>License</h2>
